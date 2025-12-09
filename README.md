@@ -260,12 +260,6 @@ const styles = StyleSheet.create({
 
 ---
 
-## 📋 Requirements
-
-- `@legendapp/list` `2.0.6` or higher
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please see the [contributing guide](CONTRIBUTING.md) to get started.
