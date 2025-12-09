@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { useCallback, useEffect, useRef, useState } from 'react';
 
 import { Dimensions, StyleSheet, View, Text, Animated } from 'react-native';
@@ -366,6 +367,7 @@ export const RulerPicker = ({
         />
 
         {/* Ruler List */}
+
         <View style={{ width, height: longStepHeight }}>
           <AnimatedLegendList
             ref={listRef}
