@@ -1,6 +1,6 @@
 {
   "name": "react-native-legend-ruler-picker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Ruler Picker with Legend List",
   "main": "./lib/module/index.js",
   "types": "./lib/typescript/src/index.d.ts",
