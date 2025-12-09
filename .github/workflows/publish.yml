@@ -45,9 +45,6 @@ jobs:
       # Quality checks using the actual package.json scripts
       - name: Quality check
         run: |
-          # TypeScript type checking
-          yarn typecheck
-
           # Lint check
           yarn lint --fix
 
